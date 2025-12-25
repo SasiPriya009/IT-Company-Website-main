@@ -1,7 +1,7 @@
-# IT Company Website
+# Sadan Constructions
 
 ## Overview
-This project is a website for an IT Company. It uses PHP and Composer for dependency management.
+This project is a website for an ELECTRICAL CONSTRUCTIONS Company. It uses PHP and Composer for dependency management.
 
 ## Prerequisites
 - PHP >= 5.5
